@@ -47,24 +47,24 @@ ___________________________________________________________________________
 
 ### Mentora Guardiã
 * @Paula Macedo Santana
-
-	Ela será a referência de vcs para todas as questões de conteúdo do programa, dúvidas. 
-	Nem sempre ela será a mentora que dará determinado conteúdo, mas ela será a referência 
-	técnica para vocês se apoiarem!
+		
+		Ela será a referência de vcs para todas as questões de conteúdo do programa, dúvidas. 
+		Nem sempre ela será a mentora que dará determinado conteúdo, mas ela será a referência 
+		técnica para vocês se apoiarem!
 
 ### PM Guardiã
 * @Paula Nunes 
 	
-	Papel é apoiar vocês durante toda a jornada no programa para garantir a melhor experiência 
-	e todo apoio que vocês precisarem. Seja emocional, psicológico, de dúvidas sobre onde enviar
-	isso, aquilo, enfim...
+		Papel é apoiar vocês durante toda a jornada no programa para garantir a melhor experiência 
+		e todo apoio que vocês precisarem. Seja emocional, psicológico, de dúvidas sobre onde enviar
+		isso, aquilo, enfim...
 
 ### Pesquisa e BI
 @Danilo Monteiro Ribeiro
 
-	O Dan vai acompanhar para entender os dados gerados, transformá-los em informações 
-	relevantes, baseadas em dados científicos para garantir que vocês estejam calibrados e se
-	desenvolvam da melhor maneira possível.
+		O Dan vai acompanhar para entender os dados gerados, transformá-los em informações 
+		relevantes, baseadas em dados científicos para garantir que vocês estejam calibrados e se
+		desenvolvam da melhor maneira possível.
 
 
 ## Início dos Trabalhos
