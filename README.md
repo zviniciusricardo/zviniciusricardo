@@ -4,7 +4,7 @@
 ## Considerações iniciais:
 
 	Esse documento será usado como referência em todo o projeto, devendo ser tratado como
-mais um asset e recurso da empreitada e projeto de vida Zup Innovation IT.
+	mais um asset e recurso da empreitada e projeto de vida Zup Innovation IT.
 
 <b>obs2: Converse o tempo todo com os stakeholders do seu projeto.</b>
 
@@ -14,20 +14,16 @@ mais um asset e recurso da empreitada e projeto de vida Zup Innovation IT.
 * equivale à 30 horas para cada curso trabalhando 8h/dia
 * média de 2 cursos por semana
 
-		###################################################
-		###################################################
-		###												                      ###
-		###	    início:  09/08	     	 	DIAS: 	  91    ###
-		###	    término: 02/11				  SEMANAS:  13    ###
-		### 							              HORAS: 	 240    ###
-		###     OrangeT:  728h								          ###
-		###     Alura:	  240h				2h de conteúdo    ###
-		### 							            6h de prática     ###
-		###												                      ###
-		###     obs: proporção de 3 pra 1					      ###
-		###												                      ###
-		###################################################
-		###################################################
+		início:  09/08
+		término: 02/11
+
+		HORAS: 	 240 		OrangeT:  728h
+		DIAS: 	  91		Alura:	  240h
+		SEMANAS:  13
+
+		2h de conteúdo
+		6h de prática
+		obs: proporção de 3 pra 1
 
 OBJETIVO:
 	2 CURSOS POR SEMANA (MÉDIA)
@@ -55,22 +51,22 @@ ___________________________________________________________________________
 * @Paula Macedo Santana
 
 	Ela será a referência de vcs para todas as questões de conteúdo do programa, dúvidas. 
-Nem sempre ela será a mentora que dará determinado conteúdo, mas ela será a referência 
-técnica para vocês se apoiarem!
+	Nem sempre ela será a mentora que dará determinado conteúdo, mas ela será a referência 
+	técnica para vocês se apoiarem!
 
 ### PM Guardiã
 * @Paula Nunes 
 	
 	Papel é apoiar vocês durante toda a jornada no programa para garantir a melhor experiência 
-e todo apoio que vocês precisarem. Seja emocional, psicológico, de dúvidas sobre onde enviar
-isso, aquilo, enfim...
+	e todo apoio que vocês precisarem. Seja emocional, psicológico, de dúvidas sobre onde enviar
+	isso, aquilo, enfim...
 
 ### Pesquisa e BI
 @Danilo Monteiro Ribeiro
 
 	O Dan vai acompanhar para entender os dados gerados, transformá-los em informações 
-relevantes, baseadas em dados científicos para garantir que vocês estejam calibrados e se
-desenvolvam da melhor maneira possível.
+	relevantes, baseadas em dados científicos para garantir que vocês estejam calibrados e se
+	desenvolvam da melhor maneira possível.
 
 ___________________________________________________________________________
 
@@ -91,31 +87,31 @@ ___________________________________________________________________________
 
  1- Java Servlet: Fundamentos da programação web Java				10h
  
- 2- HTTP: Entendendo a web por baixo dos panos						14h 	
+ 2- HTTP: Entendendo a web por baixo dos panos					14h 	
  
  3- Introdução ao SQL com MySQL: Manipule e consulte dados 			12h		
  
- 4- Consultas SQL: Avançando no SQL com MySQL 						14h
+ 4- Consultas SQL: Avançando no SQL com MySQL 					14h
  
- 5- Java e JPA: Persista seus objetos com a JPA2 e Hibernate 		08h		
+ 5- Java e JPA: Persista seus objetos com a JPA2 e Hibernate 			08h		
  
- 6- Spring Boot API REST: Construa uma API 							08h		
+ 6- Spring Boot API REST: Construa uma API 					08h		
  
- 7- Spring Boot API Rest: Segurança da API, Cache e Monitoramento 	12h
+ 7- Spring Boot API Rest: Segurança da API, Cache e Monitoramento 		12h
  
 ___________________________________________________________________________
  
  
- 8- Spring Boot e Teste: Profiles, Testes e Deploy 					08h		
+ 8- Spring Boot e Teste: Profiles, Testes e Deploy 				08h		
   
  9- Spring Data JPA: Repositórios, Consultas, Projeções e 			10h
  	Specifications												
 
-10- SOLID com Java: Orientação a Objetos com Java 					08h		
+10- SOLID com Java: Orientação a Objetos com Java 				08h		
 
 11- Java e Testes: Test Driven Development com Junit 				12h
 
-12- Teste de Integração: Testes SQL e DAOs automatizados em Java 	12h
+12- Teste de Integração: Testes SQL e DAOs automatizados em Java 		12h
 
 ___________________________________________________________________________
  
@@ -130,13 +126,13 @@ ___________________________________________________________________________
 
 ### Fase 4		
 
-13- Docker: Criando containers sem dor de cabeça 					10h		
+13- Docker: Criando containers sem dor de cabeça 				10h		
 
-14- Kafka: Produtores, Consumidores e streams 						08h		
+14- Kafka: Produtores, Consumidores e streams 					08h		
 
 15- Kotlin: primeiros passos e Orientação a Objetos 				10h		
 
-16- Kotlin: herança, polimorfismo e Interface 						10h
+16- Kotlin: herança, polimorfismo e Interface 					10h
 
 17- Kotlin: recursos da linguagem com pacotes e composição 			08h		
 
@@ -148,15 +144,15 @@ ___________________________________________________________________________
 
 ### Fase 5
 
-20- Kotlin Collections: Set e Map 									08h
+20- Kotlin Collections: Set e Map 						08h
 
-21- Kotlin: recursos do paradigma funcional 						12h		
+21- Kotlin: recursos do paradigma funcional 					12h		
 
 22- Mocks em Java: Testes de comportamentos automatizados 			12h		
 
-23- Persistência com JPA: Introdução ao Hibernate 					08h		
+23- Persistência com JPA: Introdução ao Hibernate 				08h		
 
-24- SOLID com Java: Princípios da programação orientada a objetos 	08h		
+24- SOLID com Java: Princípios da programação orientada a objetos 		08h		
 
 ___________________________________________________________________________
 
