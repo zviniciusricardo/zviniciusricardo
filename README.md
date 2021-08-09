@@ -21,7 +21,7 @@
 		DIAS: 	    91		6h de prática
 		SEMANAS:    13
 		
-	obs: proporção de 3 pra 1
+		// obs: proporção de 3 pra 1
 
 OBJETIVO:
 	2 CURSOS POR SEMANA (MÉDIA)
