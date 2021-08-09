@@ -68,7 +68,6 @@ ___________________________________________________________________________
 	relevantes, baseadas em dados científicos para garantir que vocês estejam calibrados e se
 	desenvolvam da melhor maneira possível.
 
-___________________________________________________________________________
 
 ## Início dos Trabalhos
 
@@ -79,7 +78,7 @@ ___________________________________________________________________________
 * Análise da complexidade do problema
 * Definição de estratégia
 * Adaptabilidade e auto regulação
-* Accoutability
+* Accountability
 
 ___________________________________________________________________________
 
