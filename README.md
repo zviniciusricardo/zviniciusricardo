@@ -14,16 +14,16 @@
 * equivale à 30 horas para cada curso trabalhando 8h/dia
 * média de 2 cursos por semana
 
-		início:  09/08
-		término: 02/11
+		início:  09/08 		OrangeT:  728h
+		término: 02/11		Alura:	  240h
 
-		HORAS: 	 240 		OrangeT:  728h
-		DIAS: 	  91		Alura:	  240h
-		SEMANAS:  13
+		HORAS: 	   240		2h de conteúdo
+		DIAS: 	    91		6h de prática
+		SEMANAS:    13		<i>obs: proporção de 3 pra 1</i>
 
-		2h de conteúdo
-		6h de prática
-		obs: proporção de 3 pra 1
+		
+		
+		
 
 OBJETIVO:
 	2 CURSOS POR SEMANA (MÉDIA)
