@@ -19,11 +19,9 @@
 
 		HORAS: 	   240		2h de conteúdo
 		DIAS: 	    91		6h de prática
-		SEMANAS:    13		<i>obs: proporção de 3 pra 1</i>
-
+		SEMANAS:    13
 		
-		
-		
+	obs: proporção de 3 pra 1
 
 OBJETIVO:
 	2 CURSOS POR SEMANA (MÉDIA)
